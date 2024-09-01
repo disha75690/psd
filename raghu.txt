@@ -1,0 +1,6 @@
+man
+net
+rat
+sat
+sun
+week
